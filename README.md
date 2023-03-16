@@ -1,5 +1,5 @@
 # ct-town-to-puma
-This repository contains a lookup (crosswalk) of 169 Connecticut town to **2020** PUMA boundaries.
+This repository contains a lookup (crosswalk) of 169 Connecticut town to **2020** PUMA boundaries (ct-town-to-puma-2020) and to **2010** PUMA boundaries (ct-town-to-puma-2010).
 
 * Learn more about [Public Use Microdata Areas](https://www.census.gov/programs-surveys/geography/guidance/geo-areas/pumas.html) on US Census website.
 * Explore [PDF maps](https://www2.census.gov/geo/maps/DC2020/PUMA/st09_ct/) of PUMAs in the state of Connecticut.
